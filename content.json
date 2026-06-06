@@ -6,131 +6,137 @@
     "quizPageTitle": "Kurz einprägen",
     "feedbackUrl": "#"
   },
-  "date": "2026-06-05",
   "news": [
     {
-      "category": "Handel",
+      "category": "Zinsen",
       "readTime": "1 Min.",
-      "headline": "Starke US-Jobdaten setzen Aktien unter Druck",
-      "teaser": "Anleger rechnen eher mit länger hohen Fed-Zinsen – besonders Tech-Werte geraten unter Druck.",
-      "happened": "Die USA erhöhen beispielhaft die Importzölle auf Autos aus Deutschland. Dadurch wird der Verkauf deutscher Autos im US-Markt schwieriger.",
-      "explanationTitle": "Erklärung",
-      "explanation": "Ein Zoll ist eine zusätzliche Abgabe auf importierte Waren. Er macht ein ausländisches Produkt im Zielland teurer.",
-      "example": "Ein deutsches Auto kostet ursprünglich 50.000 €. Durch den Zoll kostet es in den USA eher 60.000 €.",
-      "meaning": "Deutsche Hersteller könnten weniger verkaufen oder einen Teil des Zolls selbst tragen. Dann sinken Absatz oder Gewinnmarge.",
-      "visual": {
-        "type": "equation",
-        "parts": [
-          "50.000 € Auto",
-          "+",
-          "10.000 € Zoll",
-          "=",
-          "60.000 € Endpreis"
-        ]
-      },
-      "sources": [
-        [
-          "Quelle später einfügen",
-          "#"
-        ]
-      ]
-    },
-    {
-      "category": "Makro",
-      "readTime": "1 Min.",
-      "headline": "Zinserwartungen bewegen Aktien und Anleihen",
-      "teaser": "Wenn Märkte niedrigere Zinsen erwarten, reagieren Bewertungen oft sofort.",
-      "happened": "Investoren beobachten Inflationsdaten und Aussagen von Zentralbanken. Daraus leiten sie ab, ob Zinsen eher steigen, fallen oder stabil bleiben.",
-      "explanationTitle": "Erklärung",
-      "explanation": "Zinsen sind der Preis für geliehenes Geld. Zinserwartungen beschreiben, welches Zinsniveau der Markt in Zukunft erwartet.",
-      "example": "Wenn Kredite günstiger werden, können Unternehmen leichter investieren. Gleichzeitig werden künftige Gewinne bei niedrigeren Zinsen oft höher bewertet.",
-      "meaning": "Zinserwartungen beeinflussen Aktien, Anleihen, Immobilien und Währungen. Deshalb reagieren Märkte oft schon auf kleine Signale von Zentralbanken.",
+      "headline": "Starke US-Jobdaten erhöhen Druck auf die Fed",
+      "teaser": "Die US-Wirtschaft schafft deutlich mehr Jobs als erwartet. Märkte rechnen deshalb eher mit höheren Zinsen.",
+      "happened": "In den USA sind im Mai deutlich mehr neue Jobs entstanden als erwartet. Dadurch stiegen an den Märkten die Erwartungen, dass die Fed die Zinsen später im Jahr sogar wieder anheben könnte. Gleichzeitig gaben große Aktienindizes deutlich nach.",
+      "explanation": "Arbeitsmarktdaten zeigen, wie stark die Wirtschaft läuft. Wenn viele Jobs entstehen, steigt die Sorge, dass Löhne und Nachfrage die Inflation hochhalten. Dann könnte die Zentralbank die Zinsen länger hoch lassen oder erhöhen.",
+      "example": "Der Markt erwartet 85.000 neue Jobs, tatsächlich kommen aber 172.000. Das klingt positiv, kann für Aktien aber schlecht sein, weil Anleger jetzt eher mit höheren Zinsen rechnen.",
+      "meaning": "Höhere Zinserwartungen belasten Aktien, weil zukünftige Gewinne stärker abgezinst werden. Besonders Tech- und Wachstumsaktien reagieren empfindlich, weil ihr Wert stark von Gewinnen in der Zukunft abhängt.",
       "visual": {
         "type": "flow",
+        "title": "Warum gute Jobdaten Aktien belasten können",
         "steps": [
-          "Zinserwartung fällt",
-          "Kredite werden tendenziell günstiger",
-          "Investitionen und Bewertungen werden attraktiver"
+          "Mehr Jobs als erwartet",
+          "Inflationssorgen steigen",
+          "Fed könnte Zinsen höher halten",
+          "Aktienbewertungen geraten unter Druck"
         ]
       },
       "sources": [
         [
-          "Quelle später einfügen",
-          "#"
+          "Reuters",
+          "https://www.reuters.com/business/us-rate-futures-raise-rate-hike-odds-december-after-jobs-data-2026-06-05/"
+        ],
+        [
+          "AP",
+          "https://apnews.com/article/wall-street-stocks-dow-nasdaq-b9d2661cbba6cc326c618c06769d8291"
         ]
       ]
     },
     {
-      "category": "Aktien",
+      "category": "Energie",
       "readTime": "1 Min.",
-      "headline": "Aktie fällt trotz guter Zahlen",
-      "teaser": "Gute Ergebnisse reichen nicht immer, wenn der Markt noch mehr erwartet hatte.",
-      "happened": "Ein Unternehmen meldet solide Umsatz- und Gewinnzahlen, aber die Aktie fällt trotzdem.",
-      "explanationTitle": "Erklärung",
-      "explanation": "Markterwartungen sind die Erwartungen der Anleger an Umsatz, Gewinn, Wachstum oder Ausblick eines Unternehmens.",
-      "example": "Der Markt erwartet 20 Prozent Gewinnwachstum. Das Unternehmen schafft 15 Prozent. Objektiv ist das gut, aber gegenüber der Erwartung enttäuschend.",
-      "meaning": "Aktienkurse spiegeln Erwartungen wider. Wenn viel Optimismus schon eingepreist ist, kann selbst eine gute Nachricht zu wenig sein.",
+      "headline": "Niedrige Ölvorräte erhöhen Inflationsrisiko",
+      "teaser": "Globale Ölbestände sinken. Ein neuer Preissprung könnte Verbraucher, Unternehmen und Märkte belasten.",
+      "happened": "Globale Ölvorräte sind laut Reuters stark gesunken. Wegen der Lage rund um die Straße von Hormus warnen Analysten und Ölmanager vor einem möglichen weiteren Preisschock.",
+      "explanation": "Öl ist ein zentraler Input für Transport, Produktion und Energie. Wenn Öl teurer wird, steigen oft Kosten entlang vieler Lieferketten.",
+      "example": "Ein Unternehmen zahlt mehr für Transport und Energie. Wenn es diese Kosten nicht selbst tragen will, erhöht es seine Preise. Dadurch kann Inflation entstehen oder länger hoch bleiben.",
+      "meaning": "Das ist wichtig, weil Ölpreise Zentralbanken in ein Dilemma bringen können. Höhere Energiepreise bremsen die Wirtschaft, treiben aber gleichzeitig Inflation. Zinssenkungen werden dadurch schwieriger.",
+      "visual": {
+        "type": "flow",
+        "title": "Vom Ölpreis zur Inflation",
+        "steps": [
+          "Ölvorräte sinken",
+          "Ölpreisrisiko steigt",
+          "Transport und Energie werden teurer",
+          "Inflationsdruck nimmt zu"
+        ]
+      },
+      "sources": [
+        [
+          "Reuters",
+          "https://www.reuters.com/business/energy/global-markets-oil-analysis-pix-2026-06-05/"
+        ]
+      ]
+    },
+    {
+      "category": "IPO",
+      "readTime": "1 Min.",
+      "headline": "SpaceX-IPO lockt Privatanleger in Europa",
+      "teaser": "SpaceX könnte beim Börsengang ungewöhnlich viele Aktien für Privatanleger reservieren.",
+      "happened": "Reuters berichtet, dass SpaceX bei seinem geplanten IPO möglicherweise bis zu 30 Prozent des Angebots für Privatanleger vorsehen könnte. Plattformen in Europa bereiten bereits Zugang für Kunden vor.",
+      "explanation": "Ein IPO ist ein Börsengang. Ein bisher privates Unternehmen verkauft erstmals Aktien an öffentliche Investoren und wird an der Börse handelbar.",
+      "example": "Vor dem IPO können meist nur wenige Investoren investieren. Nach dem IPO können auch normale Anleger die Aktie über Broker kaufen. Der Einstiegspreis hängt aber stark von der Bewertung ab.",
+      "meaning": "Das ist wichtig, weil IPOs oft stark von Erwartungen leben. Wenn die Bewertung sehr hoch ist, zahlen Anleger nicht für heutige Gewinne, sondern für sehr optimistische Zukunftserwartungen. Das kann hohe Chancen, aber auch hohes Risiko bedeuten.",
       "visual": {
         "type": "compare",
+        "title": "Was sich beim IPO ändert",
         "rows": [
           [
-            "Erwartung",
-            "+20% Gewinnwachstum"
+            "Privat",
+            "Aktien nur für wenige Investoren"
           ],
           [
-            "Realität",
-            "+15% Gewinnwachstum"
+            "IPO",
+            "Aktien werden öffentlich handelbar"
           ],
           [
-            "Reaktion",
-            "Enttäuschung trotz Wachstum"
+            "Risiko",
+            "Bewertung basiert stark auf Zukunftserwartungen"
           ]
         ]
       },
       "sources": [
         [
-          "Quelle später einfügen",
-          "#"
+          "Reuters",
+          "https://www.reuters.com/legal/transactional/musks-spacex-ipo-jolts-life-back-into-european-retail-investing-2026-06-06/"
         ]
       ]
     }
   ],
   "quiz": [
     {
-      "topic": "Zölle",
-      "question": "Was ist die direkte Wirkung eines Importzolls?",
+      "topic": "Zinsen",
+      "question": "Warum können starke US-Jobdaten Aktien belasten?",
       "options": [
-        "Importierte Produkte werden im Zielland günstiger.",
-        "Importierte Produkte werden im Zielland teurer.",
-        "Unternehmen müssen keine Steuern mehr zahlen."
+        "Weil starke Jobdaten automatisch alle Unternehmensgewinne senken.",
+        "Weil sie höhere Zinserwartungen auslösen können.",
+        "Weil Aktienmärkte keine Wirtschaftsdaten beachten."
       ],
       "correct": 1,
-      "hint": "Denk an das Auto-Beispiel: Auf den ursprünglichen Preis kommt eine zusätzliche Abgabe obendrauf.",
-      "explanation": "Ein Importzoll verteuert ausländische Waren im Zielland. Dadurch kann die Nachfrage sinken."
+      "correctIndex": 1,
+      "hint": "Denk an die Kette: starke Wirtschaft → mehr Inflationssorge → Fed hält Zinsen eher hoch.",
+      "explanation": "Starke Jobdaten können höhere Zinserwartungen auslösen. Höhere Zinsen senken oft den heutigen Wert zukünftiger Gewinne."
     },
     {
-      "topic": "Zinsen",
-      "question": "Was beschreibt eine Zinserwartung?",
+      "topic": "Öl",
+      "question": "Warum können niedrige Ölvorräte für Inflation relevant sein?",
       "options": [
-        "Die Erwartung des Marktes, wie sich Zinsen künftig entwickeln.",
-        "Den aktuellen Aktienkurs einer Zentralbank.",
-        "Die gesetzliche Obergrenze für Unternehmensgewinne."
+        "Weil knappe Vorräte das Risiko steigender Ölpreise erhöhen.",
+        "Weil niedrige Ölvorräte Aktienkurse gesetzlich steigen lassen.",
+        "Weil Ölpreise nur für Tankstellen wichtig sind."
       ],
       "correct": 0,
-      "hint": "Es geht nicht nur um den heutigen Zinssatz, sondern darum, was der Markt für die Zukunft erwartet.",
-      "explanation": "Zinserwartungen beschreiben, welches Zinsniveau Anleger künftig erwarten. Diese Erwartungen bewegen Märkte oft sofort."
+      "correctIndex": 0,
+      "hint": "Überlege, was passiert, wenn ein wichtiger Rohstoff knapper wird.",
+      "explanation": "Wenn Öl knapper wird, steigt das Risiko höherer Preise. Das kann Transport, Energie und Produktion verteuern und dadurch Inflation antreiben."
     },
     {
-      "topic": "Aktien",
-      "question": "Warum kann eine Aktie trotz guter Zahlen fallen?",
+      "topic": "IPO",
+      "question": "Was bedeutet ein IPO?",
       "options": [
-        "Weil gute Zahlen an der Börse grundsätzlich egal sind.",
-        "Weil die Zahlen schlechter als die Erwartungen des Marktes waren.",
-        "Weil Aktienkurse gesetzlich nach guten Zahlen fallen müssen."
+        "Ein privates Unternehmen wird erstmals öffentlich an der Börse handelbar.",
+        "Eine Zentralbank kauft automatisch Aktien eines Unternehmens.",
+        "Ein Unternehmen zahlt alle Schulden sofort zurück."
       ],
-      "correct": 1,
-      "hint": "Vergleiche nicht nur gut/schlecht, sondern Erwartung gegen Realität.",
-      "explanation": "Der Markt reagiert oft auf die Differenz zwischen Erwartung und Realität. Gute Zahlen können enttäuschen, wenn noch bessere Zahlen eingepreist waren."
+      "correct": 0,
+      "correctIndex": 0,
+      "hint": "IPO bedeutet Börsengang. Es geht darum, dass Aktien öffentlich handelbar werden.",
+      "explanation": "Bei einem IPO verkauft ein bisher privates Unternehmen erstmals Aktien an öffentliche Investoren und wird an der Börse handelbar."
     }
   ]
 }
