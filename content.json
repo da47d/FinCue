@@ -25,14 +25,8 @@
         ]
       },
       "sources": [
-        {
-          "label": "AP",
-          "url": "https://apnews.com/article/b9d2661cbba6cc326c618c06769d8291"
-        },
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/"
-        }
+        ["AP", "https://apnews.com/article/b9d2661cbba6cc326c618c06769d8291"],
+        ["Reuters", "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/"]
       ]
     },
     {
@@ -54,10 +48,7 @@
         ]
       },
       "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/energy/imf-says-oil-price-currently-close-baseline-april-forecast-2026-06-04/"
-        }
+        ["Reuters", "https://www.reuters.com/business/energy/imf-says-oil-price-currently-close-baseline-april-forecast-2026-06-04/"]
       ]
     },
     {
@@ -72,25 +63,13 @@
       "visual": {
         "type": "compare",
         "rows": [
-          {
-            "label": "Privat",
-            "value": "Aktien nur für wenige Investoren"
-          },
-          {
-            "label": "IPO",
-            "value": "Aktien werden öffentlich handelbar"
-          },
-          {
-            "label": "Bewertung",
-            "value": "Preis basiert stark auf Zukunftserwartungen"
-          }
+          ["Privat", "Aktien nur für wenige Investoren"],
+          ["IPO", "Aktien werden öffentlich handelbar"],
+          ["Bewertung", "Preis basiert stark auf Zukunftserwartungen"]
         ]
       },
       "sources": [
-        {
-          "label": "Reuters",
-          "url": "https://www.reuters.com/business/wall-st-week-ahead-blockbuster-spacex-ipo-set-test-high-flying-us-stocks-rally-2026-06-05/"
-        }
+        ["Reuters", "https://www.reuters.com/business/wall-st-week-ahead-blockbuster-spacex-ipo-set-test-high-flying-us-stocks-rally-2026-06-05/"]
       ]
     }
   ],
@@ -103,6 +82,7 @@
         "Weil sie höhere Zinserwartungen auslösen können.",
         "Weil Aktienmärkte keine Makrodaten beachten."
       ],
+      "correct": 1,
       "correctIndex": 1,
       "hint": "Denk an die Kette: starke Wirtschaft → möglicher Inflationsdruck → Zentralbank könnte Zinsen höher halten.",
       "explanation": "Starke Jobdaten können höhere Zinserwartungen auslösen. Höhere Zinsen senken oft den heutigen Wert zukünftiger Gewinne."
@@ -115,6 +95,7 @@
         "Weil Ölpreise direkt den Aktienkurs aller Unternehmen festlegen.",
         "Weil Inflation nur von Aktienmärkten abhängt."
       ],
+      "correct": 0,
       "correctIndex": 0,
       "hint": "Überlege, wo Öl indirekt überall eine Rolle spielt: Transport, Energie, Produktion.",
       "explanation": "Öl wirkt auf viele Kostenketten. Wenn Energie und Transport teurer werden, können Unternehmen diese Kosten über höhere Preise weitergeben."
@@ -127,6 +108,7 @@
         "Eine Zentralbank senkt automatisch den Leitzins.",
         "Ein Unternehmen löscht alle bestehenden Aktien."
       ],
+      "correct": 0,
       "correctIndex": 0,
       "hint": "IPO bedeutet Börsengang. Es geht darum, dass Aktien öffentlich handelbar werden.",
       "explanation": "Bei einem IPO verkauft ein bisher privates Unternehmen Aktien an öffentliche Investoren und wird an der Börse handelbar."
