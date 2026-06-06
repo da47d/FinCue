@@ -3,115 +3,134 @@
     "name": "FinCue",
     "dateLabel": "06. Juni",
     "newsPageTitle": "Heute",
-    "quizPageTitle": "Kurz einprägen"
+    "quizPageTitle": "Kurz einprägen",
+    "feedbackUrl": "#"
   },
+  "date": "2026-06-05",
   "news": [
+    {
+      "category": "Handel",
+      "readTime": "1 Min.",
+      "headline": "Starke US-Jobdaten setzen Aktien unter Druck",
+      "teaser": "Anleger rechnen eher mit länger hohen Fed-Zinsen – besonders Tech-Werte geraten unter Druck.",
+      "happened": "Die USA erhöhen beispielhaft die Importzölle auf Autos aus Deutschland. Dadurch wird der Verkauf deutscher Autos im US-Markt schwieriger.",
+      "explanationTitle": "Erklärung",
+      "explanation": "Ein Zoll ist eine zusätzliche Abgabe auf importierte Waren. Er macht ein ausländisches Produkt im Zielland teurer.",
+      "example": "Ein deutsches Auto kostet ursprünglich 50.000 €. Durch den Zoll kostet es in den USA eher 60.000 €.",
+      "meaning": "Deutsche Hersteller könnten weniger verkaufen oder einen Teil des Zolls selbst tragen. Dann sinken Absatz oder Gewinnmarge.",
+      "visual": {
+        "type": "equation",
+        "parts": [
+          "50.000 € Auto",
+          "+",
+          "10.000 € Zoll",
+          "=",
+          "60.000 € Endpreis"
+        ]
+      },
+      "sources": [
+        [
+          "Quelle später einfügen",
+          "#"
+        ]
+      ]
+    },
     {
       "category": "Makro",
       "readTime": "1 Min.",
-      "headline": "Starke US-Jobdaten setzen Aktien unter Druck",
-      "teaser": "Gute Konjunkturdaten können Aktien belasten, wenn sie höhere Zinsen wahrscheinlicher machen.",
-      "happened": "Ein stärker als erwarteter US-Arbeitsmarktbericht hat die Sorge erhöht, dass die US-Notenbank die Zinsen länger hoch halten oder sogar weiter anheben könnte. Besonders Technologiewerte gerieten unter Druck.",
-      "explanation": "Arbeitsmarktdaten zeigen, wie robust die Wirtschaft ist. Wenn viele Jobs entstehen, kann das Inflation stützen. Dann erwarten Anleger eher höhere Zinsen.",
-      "example": "Wenn der Markt wegen starker Jobdaten höhere Zinsen erwartet, steigt der Diskontierungszins. Dadurch sind zukünftige Unternehmensgewinne heute rechnerisch weniger wert.",
-      "meaning": "Für Aktien ist das wichtig, weil Bewertungen stark von Zinserwartungen abhängen. Besonders Wachstumsaktien reagieren empfindlich, weil ein großer Teil ihres Werts in erwarteten Gewinnen der Zukunft liegt.",
+      "headline": "Zinserwartungen bewegen Aktien und Anleihen",
+      "teaser": "Wenn Märkte niedrigere Zinsen erwarten, reagieren Bewertungen oft sofort.",
+      "happened": "Investoren beobachten Inflationsdaten und Aussagen von Zentralbanken. Daraus leiten sie ab, ob Zinsen eher steigen, fallen oder stabil bleiben.",
+      "explanationTitle": "Erklärung",
+      "explanation": "Zinsen sind der Preis für geliehenes Geld. Zinserwartungen beschreiben, welches Zinsniveau der Markt in Zukunft erwartet.",
+      "example": "Wenn Kredite günstiger werden, können Unternehmen leichter investieren. Gleichzeitig werden künftige Gewinne bei niedrigeren Zinsen oft höher bewertet.",
+      "meaning": "Zinserwartungen beeinflussen Aktien, Anleihen, Immobilien und Währungen. Deshalb reagieren Märkte oft schon auf kleine Signale von Zentralbanken.",
       "visual": {
         "type": "flow",
         "steps": [
-          "Starke Jobdaten",
-          "höhere Zinserwartungen",
-          "höherer Diskontierungszins",
-          "Druck auf Aktienbewertungen"
+          "Zinserwartung fällt",
+          "Kredite werden tendenziell günstiger",
+          "Investitionen und Bewertungen werden attraktiver"
         ]
       },
       "sources": [
-        ["AP", "https://apnews.com/article/b9d2661cbba6cc326c618c06769d8291"],
-        ["Reuters", "https://www.reuters.com/business/nasdaq-sp-futures-slip-semiconductors-drag-payrolls-focus-2026-06-05/"]
-      ]
-    },
-    {
-      "category": "Energie",
-      "readTime": "1 Min.",
-      "headline": "Öl bleibt ein Risiko für Inflation und Zinsen",
-      "teaser": "Wenn Energiepreise steigen, kann das Inflation und Zentralbankentscheidungen beeinflussen.",
-      "happened": "Der Ölmarkt bleibt wegen geopolitischer Risiken und sinkender Reserven im Fokus. Selbst wenn Preise zeitweise schwanken, schauen Investoren genau darauf, ob Energie neue Inflationsimpulse auslöst.",
-      "explanation": "Öl ist ein wichtiger Input für Transport, Produktion und Energie. Steigt der Ölpreis stark, verteuern sich viele Güter und Dienstleistungen indirekt mit.",
-      "example": "Wenn Öl teurer wird, steigen oft Transportkosten. Ein Unternehmen muss dann mehr für Lieferung, Energie oder Vorprodukte zahlen und gibt einen Teil davon über höhere Preise weiter.",
-      "meaning": "Das ist wichtig, weil Ölpreisschocks Inflation erhöhen können. Zentralbanken könnten dann vorsichtiger mit Zinssenkungen werden oder länger hohe Zinsen beibehalten.",
-      "visual": {
-        "type": "flow",
-        "steps": [
-          "Ölpreis steigt",
-          "Transport und Energie werden teurer",
-          "Inflationsdruck nimmt zu",
-          "Zentralbanken werden vorsichtiger"
+        [
+          "Quelle später einfügen",
+          "#"
         ]
-      },
-      "sources": [
-        ["Reuters", "https://www.reuters.com/business/energy/imf-says-oil-price-currently-close-baseline-april-forecast-2026-06-04/"]
       ]
     },
     {
-      "category": "IPO",
+      "category": "Aktien",
       "readTime": "1 Min.",
-      "headline": "SpaceX-IPO testet die Risikobereitschaft der Märkte",
-      "teaser": "Ein großer Börsengang zeigt, wie stark Investoren aktuell an Wachstum glauben.",
-      "happened": "SpaceX steht mit einem sehr großen Börsengang im Fokus der Märkte. Die Bewertung wäre außergewöhnlich hoch und würde zeigen, wie viel Zukunftswachstum Anleger bereits heute einpreisen.",
-      "explanation": "Ein IPO ist ein Börsengang. Dabei verkauft ein bisher privates Unternehmen erstmals Aktien an öffentliche Investoren und wird an der Börse handelbar.",
-      "example": "Wenn ein Unternehmen sehr hoch bewertet wird, heißt das nicht automatisch, dass es heute schon entsprechend hohe Gewinne macht. Oft zahlt der Markt für erwartetes Wachstum in der Zukunft.",
-      "meaning": "Das ist wichtig, weil IPOs zeigen, wie viel Risiko und Wachstum Anleger gerade akzeptieren. In optimistischen Marktphasen können Bewertungen sehr hoch ausfallen.",
+      "headline": "Aktie fällt trotz guter Zahlen",
+      "teaser": "Gute Ergebnisse reichen nicht immer, wenn der Markt noch mehr erwartet hatte.",
+      "happened": "Ein Unternehmen meldet solide Umsatz- und Gewinnzahlen, aber die Aktie fällt trotzdem.",
+      "explanationTitle": "Erklärung",
+      "explanation": "Markterwartungen sind die Erwartungen der Anleger an Umsatz, Gewinn, Wachstum oder Ausblick eines Unternehmens.",
+      "example": "Der Markt erwartet 20 Prozent Gewinnwachstum. Das Unternehmen schafft 15 Prozent. Objektiv ist das gut, aber gegenüber der Erwartung enttäuschend.",
+      "meaning": "Aktienkurse spiegeln Erwartungen wider. Wenn viel Optimismus schon eingepreist ist, kann selbst eine gute Nachricht zu wenig sein.",
       "visual": {
         "type": "compare",
         "rows": [
-          ["Privat", "Aktien nur für wenige Investoren"],
-          ["IPO", "Aktien werden öffentlich handelbar"],
-          ["Bewertung", "Preis basiert stark auf Zukunftserwartungen"]
+          [
+            "Erwartung",
+            "+20% Gewinnwachstum"
+          ],
+          [
+            "Realität",
+            "+15% Gewinnwachstum"
+          ],
+          [
+            "Reaktion",
+            "Enttäuschung trotz Wachstum"
+          ]
         ]
       },
       "sources": [
-        ["Reuters", "https://www.reuters.com/business/wall-st-week-ahead-blockbuster-spacex-ipo-set-test-high-flying-us-stocks-rally-2026-06-05/"]
+        [
+          "Quelle später einfügen",
+          "#"
+        ]
       ]
     }
   ],
   "quiz": [
     {
-      "topic": "Zinsen",
-      "question": "Warum können starke US-Jobdaten Aktien belasten?",
+      "topic": "Zölle",
+      "question": "Was ist die direkte Wirkung eines Importzolls?",
       "options": [
-        "Weil gute Jobdaten automatisch Unternehmensgewinne verbieten.",
-        "Weil sie höhere Zinserwartungen auslösen können.",
-        "Weil Aktienmärkte keine Makrodaten beachten."
+        "Importierte Produkte werden im Zielland günstiger.",
+        "Importierte Produkte werden im Zielland teurer.",
+        "Unternehmen müssen keine Steuern mehr zahlen."
       ],
       "correct": 1,
-      "correctIndex": 1,
-      "hint": "Denk an die Kette: starke Wirtschaft → möglicher Inflationsdruck → Zentralbank könnte Zinsen höher halten.",
-      "explanation": "Starke Jobdaten können höhere Zinserwartungen auslösen. Höhere Zinsen senken oft den heutigen Wert zukünftiger Gewinne."
+      "hint": "Denk an das Auto-Beispiel: Auf den ursprünglichen Preis kommt eine zusätzliche Abgabe obendrauf.",
+      "explanation": "Ein Importzoll verteuert ausländische Waren im Zielland. Dadurch kann die Nachfrage sinken."
     },
     {
-      "topic": "Öl",
-      "question": "Warum kann ein steigender Ölpreis die Inflation erhöhen?",
+      "topic": "Zinsen",
+      "question": "Was beschreibt eine Zinserwartung?",
       "options": [
-        "Weil Öl viele Transport- und Produktionskosten beeinflusst.",
-        "Weil Ölpreise direkt den Aktienkurs aller Unternehmen festlegen.",
-        "Weil Inflation nur von Aktienmärkten abhängt."
+        "Die Erwartung des Marktes, wie sich Zinsen künftig entwickeln.",
+        "Den aktuellen Aktienkurs einer Zentralbank.",
+        "Die gesetzliche Obergrenze für Unternehmensgewinne."
       ],
       "correct": 0,
-      "correctIndex": 0,
-      "hint": "Überlege, wo Öl indirekt überall eine Rolle spielt: Transport, Energie, Produktion.",
-      "explanation": "Öl wirkt auf viele Kostenketten. Wenn Energie und Transport teurer werden, können Unternehmen diese Kosten über höhere Preise weitergeben."
+      "hint": "Es geht nicht nur um den heutigen Zinssatz, sondern darum, was der Markt für die Zukunft erwartet.",
+      "explanation": "Zinserwartungen beschreiben, welches Zinsniveau Anleger künftig erwarten. Diese Erwartungen bewegen Märkte oft sofort."
     },
     {
-      "topic": "IPO",
-      "question": "Was passiert bei einem IPO?",
+      "topic": "Aktien",
+      "question": "Warum kann eine Aktie trotz guter Zahlen fallen?",
       "options": [
-        "Ein privates Unternehmen wird erstmals öffentlich an der Börse handelbar.",
-        "Eine Zentralbank senkt automatisch den Leitzins.",
-        "Ein Unternehmen löscht alle bestehenden Aktien."
+        "Weil gute Zahlen an der Börse grundsätzlich egal sind.",
+        "Weil die Zahlen schlechter als die Erwartungen des Marktes waren.",
+        "Weil Aktienkurse gesetzlich nach guten Zahlen fallen müssen."
       ],
-      "correct": 0,
-      "correctIndex": 0,
-      "hint": "IPO bedeutet Börsengang. Es geht darum, dass Aktien öffentlich handelbar werden.",
-      "explanation": "Bei einem IPO verkauft ein bisher privates Unternehmen Aktien an öffentliche Investoren und wird an der Börse handelbar."
+      "correct": 1,
+      "hint": "Vergleiche nicht nur gut/schlecht, sondern Erwartung gegen Realität.",
+      "explanation": "Der Markt reagiert oft auf die Differenz zwischen Erwartung und Realität. Gute Zahlen können enttäuschen, wenn noch bessere Zahlen eingepreist waren."
     }
   ]
 }
